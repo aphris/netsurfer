@@ -1,6 +1,32 @@
-.head{
-    border-radius: 200px;
-}
 body {
   text-align: center;
+  background-image: url(bg.png);
+}
+p{
+  color: rgb(32, 79, 208);
+  font-weight: bold;
+  font-size: 25px;
+}
+a{
+  color: #c90cb0;
+  font-weight: bold;
+}
+h2{
+  font-weight:bold;
+}
+.head{
+  border-radius: 100px;
+  width: 150px;
+  height: 150px;
+}
+.biligame{
+  width: 250px;
+  height: auto;
+}
+.column{
+  float: left;
+  width: 50%;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 125px;
 }
